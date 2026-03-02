@@ -23,3 +23,8 @@ body{
  display: flex;
  flex-flow: row nowrap;
 }
+.layout{
+  margin: 0px 9px;
+  padding: 3px 0px;
+  line-height: 1.4;
+}
