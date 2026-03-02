@@ -1,17 +1,25 @@
- @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
-  body{
-    background-color: powderblue;
-  }
-  #titlee{
-    margin-left: 40px;
-    font-family: Karla !important;
-    font-weight: bold;
-    font-size: 50px !important;
-    margin-top: 10px;
-  }
-  #by{
-    font-family: Karla;
-    margin-left: 40px;
-    font-size: 20px !important;
-    font-weight: normal !important;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+body{
+  background-color: powderblue;
+}
+#titlee{
+  margin-left: 40px;
+  font-family: Karla !important;
+  font-weight: bold;
+  font-size: 50px !important;
+  margin-top: 10px;
+}
+#by{
+  font-family: Karla;
+  margin-left: 40px;
+  font-size: 20px !important;
+  font-weight: normal !important;
+}
+#ui1{
+ display: flex;
+ flex-flow: row nowrap;
+}
+#ui2{
+ display: flex;
+ flex-flow: row nowrap;
+}
